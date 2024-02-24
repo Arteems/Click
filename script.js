@@ -1,3 +1,6 @@
+let tg = window.Telegram.WebApp;
+tg.expand();
+
 let count = 0;
 
 function clickCounter() {
